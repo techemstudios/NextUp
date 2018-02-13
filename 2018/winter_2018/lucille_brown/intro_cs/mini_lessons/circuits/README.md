@@ -45,7 +45,7 @@ Example for step 5:
 
 <center>  
 
-<img src="images/circuit_example.jpg" alt="circle" style="width: 350px;"/>  
+<img src="images/circuit_example.jpg" alt="circle" width="350px" height="275px"/>  
 
 </center>  
 
@@ -59,10 +59,10 @@ Using a battery pack or Raspberry Pi and a breadboard, students will leanr how t
 
 <center>  
 
-<img src="images/over.jpg" alt="circle" style="width: 600px;"/>  
+<img src="images/over.jpg" alt="circle" width="600px" height="300px"/>  
 
 
-<img src="images/action.jpg" alt="circle" style="width: 600px;"/>  
+<img src="images/action.jpg" alt="circle" width="600px" height="300px"/>  
 
 </center>  
 
