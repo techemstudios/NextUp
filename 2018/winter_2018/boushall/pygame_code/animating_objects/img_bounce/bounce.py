@@ -10,7 +10,7 @@ size = width, height = 600, 700
 speed = [1, 1]
 
 # create a variable color
-color = 130, 202, 154
+color = (130, 202, 154)
 
 # tell Python the type of screen
 screen = pygame.display.set_mode(size)
